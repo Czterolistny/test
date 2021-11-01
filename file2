@@ -1,2 +1,6 @@
 to file2
+<<<<<<< HEAD
 add to conflict
+=======
+add something
+>>>>>>> branch2
